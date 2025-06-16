@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Said Wali Khan 👋</h1>
-<h3 align="center">Software Engineering Student | Python & PHP Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Python,| Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saidwalikhan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -20,19 +20,19 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP (Basic)" />
 </p>
 
 ### 🤖 Machine Learning Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Development (Basics)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 📫 Let's Connect
+## 📢 Let's Connect
 
 <p align="center">
   <a href="https://www.instagram.com/walikh123/" target="_blank">
