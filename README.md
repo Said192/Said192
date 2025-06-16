@@ -56,9 +56,9 @@
     <img src="https://img.shields.io/badge/Instagram-walikh123-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:swalikhan885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saidwalikhan@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-swalikhan885@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/saidwalikhan">
+  <a href="https://github.com/Said192"> 
     <img src="https://img.shields.io/badge/GitHub-Said%20Wali%20Khan-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
   </a>
 </p>
