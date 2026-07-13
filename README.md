@@ -23,7 +23,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | **[JobPilot — AI Job Search Agent](https://github.com/Said192/jobpilot)** | Full-stack agentic AI app: resume parsing, job matching with embeddings, tailored resume & cover-letter generation, LangGraph agents, RAG, application tracker | Python, FastAPI, Streamlit, LangGraph, SQLAlchemy |
-| **Xjmu Agent** | AI agent project — *(add link + one-line description)* | Python, AI Agents |
+| **Xjmu Agent** | AI agent project — * | Python, AI Agents |
 | **Green Vision — Final Year Project** | AI-driven environmental & security monitoring system for smart parks using ML and computer vision to detect and track safety conditions | Python, Computer Vision, ML |
 | **AI Research & Model Development** | Data cleaning and preprocessing pipelines, ML/DL model training and evaluation, generative AI experiments | Python, TensorFlow, Scikit-learn |
 
