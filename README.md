@@ -14,7 +14,7 @@
 - 💼 Former **Software Engineering Intern @ Eziline** — built and evaluated ML/DL models in a collaborative engineering workflow
 - 🚀 Recent work: **[JobPilot](https://github.com/Said192/jobpilot)** — an AI job-search agent (FastAPI · Streamlit · LangGraph · RAG)
 - 🌱 Passionate about building **AI-driven applications that solve real-world problems**
-- 📫 Reach me at **swalikhan885@gmail.com** · 📍 Islamabad, Pakistan
+- 📫 Reach me at **swalikhan885@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/swalikhan) · 📍 Islamabad, Pakistan
 
 ---
 
@@ -23,6 +23,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | **[JobPilot — AI Job Search Agent](https://github.com/Said192/jobpilot)** | Full-stack agentic AI app: resume parsing, job matching with embeddings, tailored resume & cover-letter generation, LangGraph agents, RAG, application tracker | Python, FastAPI, Streamlit, LangGraph, SQLAlchemy |
+| **Xjmu Agent** | AI agent project — *(add link + one-line description)* | Python, AI Agents |
 | **Green Vision — Final Year Project** | AI-driven environmental & security monitoring system for smart parks using ML and computer vision to detect and track safety conditions | Python, Computer Vision, ML |
 | **AI Research & Model Development** | Data cleaning and preprocessing pipelines, ML/DL model training and evaluation, generative AI experiments | Python, TensorFlow, Scikit-learn |
 
@@ -72,6 +73,9 @@
 ## 📢 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/swalikhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Said%20Wali%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="mailto:swalikhan885@gmail.com">
     <img src="https://img.shields.io/badge/Email-swalikhan885@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
